@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Contador">
-      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/core/service/impl/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/config/IphoneConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/ipod/Ipod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/phone/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Iphone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +111,7 @@
       <updated>1716508159208</updated>
       <workItem from="1716508160293" duration="1783000" />
       <workItem from="1716576926995" duration="17000" />
-      <workItem from="1717278939432" duration="3396000" />
+      <workItem from="1717278939432" duration="4050000" />
     </task>
     <task id="LOCAL-00001" summary="[ addition ] : First commit">
       <option name="closed" value="true" />
@@ -136,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716509060456</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ addition ] : Desafio Iphone">
+      <option name="closed" value="true" />
+      <created>1717283875481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717283875481</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ addition ] : First commit" />
     <MESSAGE value="[ addition ] : Desafio Contador" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ addition ] : Desafio Contador" />
+    <MESSAGE value="[ addition ] : Desafio Iphone" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ addition ] : Desafio Iphone" />
   </component>
 </project>
