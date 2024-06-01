@@ -1,30 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafiosDio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_contador/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio_contador/exceptions/ParametrosInvalidosException.java" afterDir="false" />
+    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Contador">
+      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/core/service/impl/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/config/IphoneConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/ipod/Ipod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/phone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "claudiocarige"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1716509228" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1716509227" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:claudiocarige/desafios_dio.git",
+    "accountId": "007f7506-327b-49ab-8c8d-c1e241710954"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2gtDopvWbgubYedMTj53wgI73QF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +81,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/dev/desafios/DIO/desafiosDio/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,6 +96,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\dev\desafios\DIO\desafiosDio\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="desafio_iphone.core.service" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,11 +116,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716508159208</updated>
-      <workItem from="1716508160293" duration="312000" />
+      <workItem from="1716508160293" duration="1783000" />
+      <workItem from="1716576926995" duration="17000" />
+      <workItem from="1717278939432" duration="3396000" />
     </task>
+    <task id="LOCAL-00001" summary="[ addition ] : First commit">
+      <option name="closed" value="true" />
+      <created>1716509019078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716509019078</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[ addition ] : Desafio Contador">
+      <option name="closed" value="true" />
+      <created>1716509060456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716509060456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[ addition ] : First commit" />
+    <MESSAGE value="[ addition ] : Desafio Contador" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ addition ] : Desafio Contador" />
   </component>
 </project>
