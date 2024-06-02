@@ -1,6 +1,6 @@
-package desafio_contador;
+package br.com.claudiocarige.desafio_contador;
 
-import desafio_contador.exceptions.ParametrosInvalidosException;
+import br.com.claudiocarige.desafio_contador.exceptions.ParametrosInvalidosException;
 
 import java.util.Scanner;
 

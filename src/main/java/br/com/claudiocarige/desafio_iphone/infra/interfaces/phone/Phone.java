@@ -1,6 +1,6 @@
-package desafio_iphone.infra.interfaces.phone;
+package br.com.claudiocarige.desafio_iphone.infra.interfaces.phone;
 
-import desafio_iphone.infra.config.IphoneConfig;
+import br.com.claudiocarige.desafio_iphone.infra.config.IphoneConfig;
 
 
 public interface Phone extends IphoneConfig {

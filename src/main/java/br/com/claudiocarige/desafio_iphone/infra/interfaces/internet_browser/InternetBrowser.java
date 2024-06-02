@@ -1,6 +1,6 @@
-package desafio_iphone.infra.interfaces.internet_browser;
+package br.com.claudiocarige.desafio_iphone.infra.interfaces.internet_browser;
 
-import desafio_iphone.infra.config.IphoneConfig;
+import br.com.claudiocarige.desafio_iphone.infra.config.IphoneConfig;
 
 
 public interface InternetBrowser extends IphoneConfig {

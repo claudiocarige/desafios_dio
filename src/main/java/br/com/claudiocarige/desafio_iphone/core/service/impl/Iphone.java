@@ -1,8 +1,8 @@
-package desafio_iphone.core.service.impl;
+package br.com.claudiocarige.desafio_iphone.core.service.impl;
 
-import desafio_iphone.infra.interfaces.internet_browser.InternetBrowser;
-import desafio_iphone.infra.interfaces.ipod.Ipod;
-import desafio_iphone.infra.interfaces.phone.Phone;
+import br.com.claudiocarige.desafio_iphone.infra.interfaces.internet_browser.InternetBrowser;
+import br.com.claudiocarige.desafio_iphone.infra.interfaces.ipod.Ipod;
+import br.com.claudiocarige.desafio_iphone.infra.interfaces.phone.Phone;
 
 
 public class Iphone implements Phone, Ipod, InternetBrowser {

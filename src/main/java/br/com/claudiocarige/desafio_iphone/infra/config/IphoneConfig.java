@@ -1,4 +1,4 @@
-package desafio_iphone.infra.config;
+package br.com.claudiocarige.desafio_iphone.infra.config;
 
 public interface IphoneConfig {
 

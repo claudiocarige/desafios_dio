@@ -1,6 +1,6 @@
-package desafio_iphone.infra.interfaces.ipod;
+package br.com.claudiocarige.desafio_iphone.infra.interfaces.ipod;
 
-import desafio_iphone.infra.config.IphoneConfig;
+import br.com.claudiocarige.desafio_iphone.infra.config.IphoneConfig;
 
 
 public interface Ipod extends IphoneConfig {
