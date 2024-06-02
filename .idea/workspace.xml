@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Iphone" />
+    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Iphone">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/entities/enums/TipoConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/AvaliadorDeCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/impl/AvaliadorDeCreditoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/impl/BankOperationsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_contador/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_contador/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_contador/exceptions/ParametrosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_contador/exceptions/ParametrosInvalidosException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/core/service/impl/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/core/service/impl/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/img/IphoneUML.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/img/IphoneUML.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/config/IphoneConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/config/IphoneConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/ipod/Ipod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/ipod/Ipod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/phone/Phone.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +45,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "claudiocarige"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;claudiocarige&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -53,15 +77,15 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:claudiocarige/desafios_dio.git",
-    "accountId": "007f7506-327b-49ab-8c8d-c1e241710954"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:claudiocarige/desafios_dio.git&quot;,
+    &quot;accountId&quot;: &quot;007f7506-327b-49ab-8c8d-c1e241710954&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2gtDopvWbgubYedMTj53wgI73QF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,6 +94,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -82,16 +107,57 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.claudiocarige.desafio_bank.core.usecases" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\dev\desafios\DIO\desafiosDio\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\desafios\DIO\desafiosDio\src\main\java" />
+      <recent name="D:\dev\desafios\DIO\desafiosDio\src\main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="desafio_iphone.core.service" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafio_bank.Main" />
+      <module name="copyimagem-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.claudiocarige.desafio_bank.core.entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="copyimagem-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="copyimagem-backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
