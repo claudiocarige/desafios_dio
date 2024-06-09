@@ -4,30 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : Desafio Iphone">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/entities/enums/TipoConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/AvaliadorDeCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/impl/AvaliadorDeCreditoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_bank/core/usecases/impl/BankOperationsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="ebcf047d-f619-4191-a9fe-4918cc50ced6" name="Changes" comment="[ addition ] : POO challenge created">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/MainPoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/domain/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/domain/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/domain/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/domain/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/domain/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/interfaces/DevService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_poo/core/usecases/DevServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_contador/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_contador/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_contador/exceptions/ParametrosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_contador/exceptions/ParametrosInvalidosException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/core/service/impl/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/core/service/impl/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/img/IphoneUML.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/img/IphoneUML.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/config/IphoneConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/config/IphoneConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/internet_browser/InternetBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/ipod/Ipod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/ipod/Ipod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio_iphone/infra/interfaces/phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/claudiocarige/desafio_iphone/infra/interfaces/phone/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +69,9 @@
     &quot;accountId&quot;: &quot;007f7506-327b-49ab-8c8d-c1e241710954&quot;
   }
 }</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -95,13 +84,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MainPoo.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.br.com.claudiocarige.desafio_poo.Main.executor": "Run",
+    "Application.br.com.claudiocarige.desafio_poo.core.Main.executor": "Run",
+    "Application.br.com.claudiocarige.desafiosextras.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/dev/desafios/DIO/desafiosDio/src",
+    "last_opened_file_path": "D:/dev/desafios/DIO/desafiosDio/src/main/java/br/com/claudiocarige/desafio_poo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,6 +111,9 @@
       <recent name="br.com.claudiocarige.desafio_bank.core.usecases" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\desafios\DIO\desafiosDio\src\main\java\br\com\claudiocarige\desafio_poo" />
+      <recent name="D:\dev\desafios\DIO\desafiosDio\src\main\java\br\com\claudiocarige\desafio_poo\core" />
+      <recent name="D:\dev\desafios\DIO\desafiosDio\src\main\java\br\com\claudiocarige\desafio_poo\core\domain" />
       <recent name="D:\dev\desafios\DIO\desafiosDio\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -126,13 +124,13 @@
       <recent name="desafio_iphone.core.service" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafio_bank.Main" />
+  <component name="RunManager" selected="Application.MainPoo">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafio_poo.Main2" />
       <module name="copyimagem-backend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.claudiocarige.desafio_bank.core.entities.*" />
+          <option name="PATTERN" value="br.com.claudiocarige.desafio_poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,22 +138,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="MainPoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafio_poo.MainPoo" />
       <module name="copyimagem-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.claudiocarige.desafio_poo.core.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.Teste" />
       <module name="copyimagem-backend" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.claudiocarige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.claudiocarige.desafio_poo.core.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafio_poo.core.Main" />
+      <module name="copyimagem-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.claudiocarige.desafio_poo.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.claudiocarige.desafiosextras.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.claudiocarige.desafiosextras.Main" />
+      <module name="copyimagem-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.claudiocarige.desafiosextras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainPoo" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.br.com.claudiocarige.desafio_poo.core.Main" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.br.com.claudiocarige.desafiosextras.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +219,9 @@
       <workItem from="1716508160293" duration="1783000" />
       <workItem from="1716576926995" duration="17000" />
       <workItem from="1717278939432" duration="4050000" />
+      <workItem from="1717705196664" duration="9041000" />
+      <workItem from="1717903522392" duration="1853000" />
+      <workItem from="1717948526787" duration="5288000" />
     </task>
     <task id="LOCAL-00001" summary="[ addition ] : First commit">
       <option name="closed" value="true" />
@@ -203,7 +247,55 @@
       <option name="project" value="LOCAL" />
       <updated>1717283875481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[ refactor ] : Refactored the project structure">
+      <option name="closed" value="true" />
+      <created>1717343843984</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717343843984</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[ refactor ] : Refactored project structure for Maven project">
+      <option name="closed" value="true" />
+      <created>1717343953603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717343953603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[ refactor ] : Refactored project structure for Maven project">
+      <option name="closed" value="true" />
+      <created>1717344091796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717344091796</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[ addition ] : Desafio Bank">
+      <option name="closed" value="true" />
+      <created>1717344177329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717344177329</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[ refactor ] : Refactored the project architectur">
+      <option name="closed" value="true" />
+      <created>1717344254337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717344254337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[ addition ] : POO challenge created">
+      <option name="closed" value="true" />
+      <created>1717953544203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717953544203</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +305,11 @@
     <MESSAGE value="[ addition ] : First commit" />
     <MESSAGE value="[ addition ] : Desafio Contador" />
     <MESSAGE value="[ addition ] : Desafio Iphone" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ addition ] : Desafio Iphone" />
+    <MESSAGE value="[ refactor ] : Refactored the project structure" />
+    <MESSAGE value="[ refactor ] : Refactored project structure for Maven project" />
+    <MESSAGE value="[ addition ] : Desafio Bank" />
+    <MESSAGE value="[ refactor ] : Refactored the project architectur" />
+    <MESSAGE value="[ addition ] : POO challenge created" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ addition ] : POO challenge created" />
   </component>
 </project>
